@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch>=2.7.0
+torchvision>=0.17.0
+diffusers>=0.20.0
+accelerate>=0.20.0
+Pillow>=9.0.0
+opencv-python>=4.7.0
+torchmetrics
+lpips
+pandas
+openpyxl
+matplotlib
